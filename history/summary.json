@@ -4,19 +4,19 @@
     "url": "https://tux-bot-cogged-update-as-of-8122.hacknorris.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/tux-bot-cogged-update-as-of-8122.hacknorris.repl.co.ico",
     "slug": "bot",
-    "status": "down",
-    "uptime": "97.46%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
-    "time": 4331,
-    "timeDay": 5623,
-    "timeWeek": 4331,
-    "timeMonth": 4331,
-    "timeYear": 4331,
+    "status": "up",
+    "uptime": "96.97%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "96.97%",
+    "time": 7286,
+    "timeDay": 8995,
+    "timeWeek": 7286,
+    "timeMonth": 7286,
+    "timeYear": 7286,
     "dailyMinutesDown": {
-      "2023-07-21": 54
+      "2023-07-21": 65
     }
   }
 ]
