@@ -1,5 +1,5 @@
 # Change these first
-owner: free-code-buster # Your GitHub organization or username, where this repository lives
+owner: hacknorris-code # Your GitHub organization or username, where this repository lives
 repo: bot-check # The name of this repository
 
 sites:
