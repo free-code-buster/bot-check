@@ -1,7 +1,7 @@
 url: https://tux-bot-cogged-update-as-of-8122.hacknorris.repl.co
-status: up
-code: 200
-responseTime: 507
-lastUpdated: 2023-08-24T23:13:21.932Z
+status: down
+code: 502
+responseTime: 2226
+lastUpdated: 2023-08-25T02:16:11.791Z
 startTime: 2023-07-20T10:56:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
